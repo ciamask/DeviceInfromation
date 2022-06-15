@@ -23,9 +23,8 @@ var width = bounds.size.width
 var height = bounds.size.height
 https://stackoverflow.com/questions/24084941/how-to-get-device-width-and-height
 
-Device ID -> We will get vendorID/ AdvertisingID  which is unique for a application installed in device
+Device ID -> We will get vendorID  which is unique for a application installed in device
 vendorID:- https://stackoverflow.com/questions/25925481/how-to-get-a-unique-device-id-in-swift
-advertisingID:- https://stackoverflow.com/questions/19402327/how-to-get-unique-id-in-ios-device
 
 SIM Serial no -> No
 
